@@ -1,6 +1,6 @@
 <h1>Hi, I'm April! <br/><a href="https://github.com/ABarbett"></a>Emergency Operations Center Manager, <a href="www.linkedin.com/in/april-barbett-5387b311b">Cybersecurity Enthusiast</a>, Cybersecurity Student at UMGC
 
-<h2>🛩🛰️ HANDS-ON HOME LAB EXPERIENCE:</h2>
+<h2>🛰️ HANDS-ON HOME LAB EXPERIENCE:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/)
