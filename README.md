@@ -18,6 +18,41 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 
+<h2>📺 Extensive List of 🆓 Labs (I have not tried all of these but I had the list and thought I would share.)</h2>
+
+- [Attack-Defense](https://attackdefense.com)
+- [Alert to win](https://alf.nu/alert1)
+- [Bancocn](https://bancocn.com)
+- [CTF Komodo Security](https://ctf.komodosec.com)
+- [CryptoHack](https://cryptohack.org/)
+- [CMD Challenge](https://cmdchallenge.com)
+- [Explotation Education](https://exploit.education)
+- [Google CTF](https://capturetheflag.withgoogle.com/)
+- [HackTheBox](https://www.hackthebox.com)
+- [Hackthis](https://www.hackthis.co.uk)
+- [Hacksplaining](https://www.hacksplaining.com/lessons)
+- [Hacker101](https://ctf.hacker101.com)
+- [Hacking-Lab](https://hacking-lab.com/)
+- [HSTRIKE](https://hstrike.com)
+- [OverTheWire](https://hstrike.com)
+- [Practical Pentest Labs](https://www.amanhardikar.com/mindmaps/Practice.html)
+- [Pentestlab](https://pentesterlab.com)
+- [Hackaflag BR](https://hackaflag.com.br/)
+- [Penetration Testing Practice Labs](https://lnkd.in/e6wVANYd)
+- [PentestIT LAB](https://lab.pentestit.ru)
+- [PicoCTF](https://picoctf.com)
+- [PWNABLE](https://pwnable.kr/play.php)
+- [Root-Me](https://www.root-me.org)
+- [Root in Jail](http://rootinjail.com)
+- [SmashTheStack](http://www.smashthestack.org/wargames.html)
+- [The Cryptopals Crypto Challenges](https://cryptopals.com)
+- [Try Hack Me](https://tryhackme.com)
+- [Vulnhub](https://www.vulnhub.com)
+- [W3Challs](https://w3challs.com)
+- [WeChall](http://www.wechall.net)
+- [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/)
+- [LetsDefend](https://letsdefend.io/)
+
 <h2>📺 Best 🆓 Cybersecurity Training Resources</h2>
 
 - [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
@@ -46,6 +81,14 @@
 - [RedTeaming](https://taggartinstitute.org/p/responsible-red-teaming)
 - [Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)
 - [Cyber Threat Intelligience](https://arcx.io/courses/cyber-threat-intelligence-101)
+
+<h2>📺 Veteran Only Resources</h2>
+
+- [Splunk](https://workplus.splunk.com/veterans)
+- [Immersive Labs](https://cybermillion.immersivelabs.online/register)
+- [Fortinet Vets Program](https://www.fortinet.com/training/veterans-program)
+- [Military to Microsoft](https://military.microsoft.com/mssa/#MSSA-101)
+- [Federal Cybersecurity Virtual Training](https://fedvte.usalearning.gov/)
 
 <h2> 📮 Connect with me:</h2>
 
