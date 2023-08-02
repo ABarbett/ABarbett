@@ -1,6 +1,6 @@
 <h1>Hi, I'm April! <br/><a href="https://github.com/ABarbett"></a>Emergency Operations Center Manager, <a href="www.linkedin.com/in/april-barbett-5387b311b">Cybersecurity Enthusiast</a>, Cybersecurity Student at UMGC
 
-<h2>🛩️🛰️ US AIR FORCE ACHIEVMENTS:</h2>
+<h2>🛩🛰️ HANDS-ON HOME LAB EXPERIENCE:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -30,6 +30,22 @@
 - [Network Security by OpenLearn](https://www.open.edu/openlearn/digital-computing/network-security?active-tab=description-tab)
 - [Risk Management by Open Learn](https://www.open.edu/openlearn/money-business/risk-management?active-tab=description-tab)
 - [Certified in Cybersecurity℠ - CC](https://www.isc2.org/Certifications/CC)
+- [CCNA Security Courses:](https://digitaldefynd.com/best-ccna-security-courses/)
+- [Network Defense Essentials (NDE)](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)
+- [Ethical Hacking Essentials (EHE)](https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false)
+- [Digital Forensics Essentials (DFE)](https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false)
+- [Digital Forensics by Open Learn](https://www.open.edu/openlearn/science-maths-technology/digital-forensics?active-tab=description-tab)
+- [AWS Cloud Certifications (Cybersecurity)](https://explore.skillbuilder.aws/learn/signin)
+- [Microsoft Learn for Azure](https://learn.microsoft.com/en-us/training/azure/)
+- [Google Cloud Training](https://cloud.google.com/learn/training)
+- [Vulnerability Management](https://www.qualys.com/training/)
+- [Software Security](https://www.classcentral.com/course/software-security-1728)
+- [Developing Secure Software](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
+- [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat?logged=false)
+- [ortSwigger Web Hacking](https://portswigger.net/web-security)
+- [RedTeaming](https://taggartinstitute.org/p/responsible-red-teaming)
+- [Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)
+- [Cyber Threat Intelligience](https://arcx.io/courses/cyber-threat-intelligence-101)
 
 <h2> 📮 Connect with me:</h2>
 
