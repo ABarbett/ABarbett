@@ -1,4 +1,4 @@
-<h1>Hi, I'm April! <br/><a href="https://github.com/ABarbett"></a>Emergency Operations Center Manager, <a href="www.linkedin.com/in/april-barbett-5387b311b">Cybersecurity Enthusiast</a>, Cybersecurity Student at UMGC
+<h1>Hi, I'm April! <br/><a href="https://github.com/ABarbett"></a>C2 Operations Center Manager, <a href="www.linkedin.com/in/april-barbett-5387b311b">Cybersecurity Enthusiast</a>, Cybersecurity Student at UMGC
 
 <h2>🛰️ HANDS-ON HOME LAB EXPERIENCE (Not yet completed)</h2>
 
