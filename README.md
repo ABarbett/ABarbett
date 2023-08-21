@@ -1,6 +1,6 @@
 <h1>Hi, I'm April! <br/><a href="https://github.com/ABarbett"></a>C2 Operations Center Manager, <a href="www.linkedin.com/in/april-barbett-5387b311b">Cybersecurity Enthusiast</a>, Cybersecurity Student at UMGC
 
-<h3>I am driven and passionate about safeguarding people’s security, including their financial well being. I enjoy working with technology and analyzing and solving complex problems.</h2>
+<h2>🛡️⚔️I am driven and passionate about safeguarding businesses critical information and people’s personal data from cyber criminals. I enjoy working with technology and analyzing and solving complex problems.</h2>
 
 <h3>🛰️ HANDS-ON HOME LAB EXPERIENCE (Not yet completed)</h2>
 
