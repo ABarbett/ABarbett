@@ -1,6 +1,8 @@
 <h1>Hi, I'm April! <br/><a href="https://github.com/ABarbett"></a>C2 Operations Center Manager, <a href="www.linkedin.com/in/april-barbett-5387b311b">Cybersecurity Enthusiast</a>, Cybersecurity Student at UMGC
 
-<h2>🛰️ HANDS-ON HOME LAB EXPERIENCE (Not yet completed)</h2>
+<h3>I am driven and passionate about safeguarding people’s security, including their financial well being. I enjoy working with technology and analyzing and solving complex problems.</h2>
+
+<h3>🛰️ HANDS-ON HOME LAB EXPERIENCE (Not yet completed)</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/)
@@ -18,7 +20,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 
-<h2>📺 Extensive List of 🆓 Labs (I have not tried all of these but I had the list and thought I would share.)</h2>
+<h4>📺 Extensive List of 🆓 Labs (I have not tried all of these but I had the list and thought I would share.)</h2>
 
 - [Attack-Defense](https://attackdefense.com)
 - [Alert to win](https://alf.nu/alert1)
@@ -53,7 +55,7 @@
 - [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/)
 - [LetsDefend](https://letsdefend.io/)
 
-<h2>📺 Best 🆓 Cybersecurity Training Resources</h2>
+<h5>📺 Best 🆓 Cybersecurity Training Resources</h2>
 
 - [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
 - [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)
@@ -82,7 +84,7 @@
 - [Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)
 - [Cyber Threat Intelligience](https://arcx.io/courses/cyber-threat-intelligence-101)
 
-<h2>📺 Veteran Only Resources</h2>
+<h6>📺 Veteran Only Resources</h2>
 
 - [Splunk](https://workplus.splunk.com/veterans)
 - [Immersive Labs](https://cybermillion.immersivelabs.online/register)
@@ -90,7 +92,7 @@
 - [Military to Microsoft](https://military.microsoft.com/mssa/#MSSA-101)
 - [Federal Cybersecurity Virtual Training](https://fedvte.usalearning.gov/)
 
-<h2> 📮 Connect with me:</h2>
+<h7> 📮 Connect with me:</h2>
 
 [<img align="left" alt="AprilBarbett | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AprilBarbett | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
